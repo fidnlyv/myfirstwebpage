@@ -1,0 +1,37 @@
+body {
+background: linear-gradient(#f1f1f1, #f5e1da);
+}
+/**********************Heading Values********************/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #9764c7;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #15cda8;
+}
+
+h3 {
+  color: #15cda8;
+}
+ 
+img:hover{
+  background-color: #beeef7;
+}
+/**********************Image Values********************/
+.breakfast{
+  background-color: #feb9c8;
+}
+.lunch{
+  background-color: #f6a7ba;
+}
+.Supper{
+  background-color: #f5587b;
+}
+/**********************ID Selectors********************/
+#menu {
+  color: #4592af;
+}
